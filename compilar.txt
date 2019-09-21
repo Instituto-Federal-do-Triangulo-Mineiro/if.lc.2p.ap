@@ -1,0 +1,3 @@
+gcc exemplo.c -o exemplo
+gcc -Wall -o exemplo exemplo.c
+gcc -Wall -o exemplo exemplo.c -lm
