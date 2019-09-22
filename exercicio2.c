@@ -17,7 +17,7 @@ Programa que exibe a média aritmética entre dois números inteiros lidos do us
 
 int main() {
 
-    //Configurando língua e limpando a tela
+    
     setlocale (LC_ALL,"portuguese");
     system ("clear");
     
